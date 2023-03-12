@@ -1,1 +1,9 @@
-Hey, my name is Alica. I am 
+Hey, my name is Alica. I am a 22 year old student from Gießen, Germany. I was born 2000 in Lauchhammer. 
+
+Download CV
+
+List of Artworks
+
+Here a picture of me:
+
+![[IMG_1096.jpg]]

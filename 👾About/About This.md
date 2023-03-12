@@ -1,53 +1,6 @@
-Hey, I am Alica! 👾
+Welcome to my little digital universe! Just click and scroll, but if you are looking for something in particular: 
 
-May I take your coat?🧥 Thank you! Now have fun while browsing around! 🌏 
-
-✨ Enter my Universe ✨
-
-
-
-
-
-## 👾About
-
-About Me
-About This 
-About Everything 
-
-## 🧳Projects 
-
-Art
-
-Texts
-
-Digital Solutions 
-
-## 📚Reviews
-
-Perfomances
-
-Books
-
-Movies
-
-
-## 🇯🇵 Tokyo 
-
-Why Tokyo?
-Organisation before
-Organisation during
-
-Blog
-September 2023
-- Fazit
-- Magical Moment
-Oktober 2023
-- Fazit
-- 
-November 2023
-
-
-Socials 
-Instagram
-TikTok 
-LinkedIn 
+If you are interesting in get to know more [[About Me]]. 
+If you are investigated in [[Projects]] of art, texts and digital solutions. 
+If you are interested in [[Reviews]] to performance, books and more. 
+If you want to know more about me lost in [[Tokyo]].
