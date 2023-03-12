@@ -12,7 +12,7 @@ LANDING_DESCRIPTION = "
 	</div>
 "
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "About This.md" 
+LANDING_PAGE = "About This" 
 # (Optional) Site title on landing page
 LANDING_TITLE = "<span class='hvr-grow'>Hey, I am Alica!👾</span>"
 PYTHON_VERSION = "3.8"
