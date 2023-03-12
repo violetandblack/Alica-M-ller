@@ -41,7 +41,7 @@ GRAPH_OPTIONS = """
         }
         """
 HOME_GRAPH = "y"
-LANDING_BUTTON = "<span class='shake-rotate shake-freeze'>✨ Enter my Universe ✨?</span>"
+LANDING_BUTTON = "<span class='shake-rotate shake-freeze'>✨ Enter my Universe ✨</span>"
 LANDING_DESCRIPTION = "<div style='margin-bottom: 1rem; margin-top: -3rem;'>May I take your coat? <div style='font-size: 4rem; display: inline-block' class='animate__animated animate__pulse animate__infinite '>🧥 </div> Thank you! Now have fun while browsing around! 🌏</div>"
 LANDING_PAGE = "About Me"
 LANDING_TITLE = "<span class='hvr-grow'>Hey, I am Alica! </span>"
@@ -55,7 +55,7 @@ SITE_TITLE_TAB = "Alica's Second 🧠"
 SITE_URL = "https://alicamueller.com"
 SLUGIFY = "y"
 STRICT_LINE_BREAKS = "y"
-TIMEZONE = "Asia/Hong_Kong"
+TIMEZONE = "Europe/Berlin"
 ZOLA_VERSION = "0.15.2"
 
 [[plugins]]
