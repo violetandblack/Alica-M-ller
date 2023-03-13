@@ -41,9 +41,9 @@ PAGE_GRAPH = "y"
 SIDEBAR_COLLAPSED = ""
 FOOTER = "
 <div style='display: flex; justify-content: space-between;'>
-	<a href=''>Legal Notice</a>
-	<a href=''>Terms and Conditions</a>
-	<a href=''>Privacy</a>
+	<a href='https://alicamueller.com/docs/about/legal-notice/'>Legal Notice</a>
+	<a href='https://alicamueller.com/docs/about/terms-and-conditions/'>Terms and Conditions</a>
+	<a href='https://alicamueller.com/docs/about/privacy/'>Privacy</a>
 </div>"
 # (Optional, default main) Root section name.
 ROOT_SECTION_NAME = "About"
