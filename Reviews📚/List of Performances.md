@@ -1,10 +1,12 @@
+# Performances (seen)
+
 ## 2 0 2 3
 
 12.02.23 - 10 Odd Emotions - Dresden Frankfurt Dance Company
 
-12.02.23 - Dark Matter
+12.02.23 - Dark Matter - LAB FFM - 
 
-11.02.23 - Sommernachtstraum Gießen
+11.02.23 - Sommernachtstraum Gießen - Stadttheater GI 
 
 ## 2 0 2 2 
 
