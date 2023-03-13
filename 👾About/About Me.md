@@ -6,4 +6,3 @@ List of Artworks
 
 Here a picture of me:
 
-![[IMG_1096.jpg]]
