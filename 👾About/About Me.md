@@ -3,6 +3,3 @@ Hey, my name is Alica. I am a 22 year old student from Gießen, Germany. I was b
 Download CV
 
 List of Artworks
-
-Here a picture of me:
-
